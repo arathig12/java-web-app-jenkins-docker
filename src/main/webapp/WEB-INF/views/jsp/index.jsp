@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2024</p>
+		<p>&copy; Mithun Technologies 2025</p>
 	</footer>
 </div>
 
